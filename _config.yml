@@ -11,7 +11,7 @@ name: PPPP
 description: test
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: http://Carbine-P.github.io/
+url: https://carbine-p.github.io/ppBLOG/
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
@@ -79,7 +79,7 @@ disqus: loffer #shortname
 gitalk:
   clientID: Ov23liMUadE1Ob02u26b
   clientSecret: b12b8b97a7cb2b4ff27b7f7344e8192f3fe7331e
-  repo: Carbine-P.github.io
+  repo: Carbine-P/ppBLOG
   owner: Carbine-P
   proxy:
 
